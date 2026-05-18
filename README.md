@@ -1,29 +1,153 @@
-<h1 align="center">Hi 👋, I'm Elvis Muasya Kariuki</h1>
-<h3 align="center">A passionate fullstack developer from Nairobi, Kenya</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=250&section=header&text=Elvis%20Muasya%20Kariuki&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20from%20Kenya&descAlignY=58&descSize=20" width="100%" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elvis24-tech&label=Profile%20views&color=0e75b6&style=flat" alt="elvis24-tech" /> </p>
+<h1>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35px"/>
+  Hi, I'm 
+  <a href="https://github.com/Elvis24-tech">Elvis Muasya Kariuki</a>
+  <img align="right" src="https://komarev.com/ghpvc/?username=elvis24-tech&label=Profile%20Views&color=0e75b6&style=flat" />
+</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elvis24-tech" alt="elvis24-tech" /></a> </p>
+<div>
+  <img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF"/>
+</div>
 
-- 🔭 I’m currently working on [Beautifier](https://github.com/Elvis24-tech/Beautifier)
+### 🚀 Building modern web experiences with clean UI, scalable backend systems, and real-world solutions.
 
-- 🌱 I’m currently learning **C, C++,Java**
+<ul>
+  <li>
+    🌍 Based in <strong>Nairobi, Kenya</strong>
+  </li>
+  
+  <li>
+    💻 Portfolio: <a href="https://elvis-muasya.vercel.app/"><strong>elvis-muasya.vercel.app</strong></a>
+  </li>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Elvis24-tech](https://github.com/Elvis24-tech)
+  <li>
+    📂 Explore My Projects: <a href="https://github.com/Elvis24-tech"><strong>GitHub Repositories</strong></a>
+  </li>
 
-- 💬 Ask me about **Ask me about React, Django, Firebase, Tailwind CSS, and fullstack development**
+  <li>
+    📫 Reach me at: <strong>kariukielvis140@gmail.com</strong>
+  </li>
 
-- 📫 How to reach me **kariukielvis140@gmail.com**
+  <li>
+    🔭 Currently building <strong>Beautifier</strong> and modern fullstack applications
+  </li>
 
-- 📄 Know about my experiences [https://github.com/Elvis24-tech/Elvis-Muasya](https://github.com/Elvis24-tech/Elvis-Muasya)
+  <li>
+    🌱 Currently learning <strong>C, C++, and Java</strong>
+  </li>
 
-- ⚡ Fun fact **I’m passionate about building tech solutions for the world, starting from Kenya**
+  <li>
+    💬 Ask me about <strong>React, Django, Firebase, Tailwind CSS, REST APIs, and Fullstack Development</strong>
+  </li>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+  <li>
+    ⚡ Fun fact: <strong>I’m passionate about building impactful tech solutions starting from Kenya 🌍</strong>
+  </li>
+</ul>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elvis24-tech&show_icons=true&locale=en&layout=compact" alt="elvis24-tech" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elvis24-tech&show_icons=true&locale=en" alt="elvis24-tech" /></p>
+## 🌐 Connect With Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elvis24-tech&" alt="elvis24-tech" /></p>
+<p align="left">
+<a href="https://www.linkedin.com/in/elvis-muasya-542202379/" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="50" />
+</a>
+
+<a href="https://github.com/Elvis24-tech" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="50" />
+</a>
+
+<a href="mailto:kariukielvis140@gmail.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="50" />
+</a>
+</p>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 👨‍💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,php,c,cpp,java,html,css" />
+</p>
+
+### ⚛️ Frontend Development
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,vite,vue,angular" />
+</p>
+
+### 🔥 Backend Development
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,nestjs,firebase" />
+</p>
+
+### 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb" />
+</p>
+
+### ⚙️ Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,figma,vercel,netlify,docker" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=elvis24-tech&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvis24-tech&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=elvis24-tech&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=elvis24-tech&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+## ✨ Featured Project
+
+### 💄 Beautifier App
+A modern beauty and cosmetics platform built with React, Django, Firebase Authentication, and M-Pesa integration.
+
+🔗 Project Link:  
+https://github.com/Elvis24-tech/Beautifier
+
+---
+
+<div align="center">
+
+### 💻 “Code. Create. Solve. Repeat.”
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Fullstack+Developer;React+%2B+Django+Developer;Building+Modern+Web+Apps;Always+Learning+New+Technologies" />
+
+</div>
