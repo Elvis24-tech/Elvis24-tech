@@ -134,20 +134,10 @@
 
 ---
 
-## ✨ Featured Project
-
-### 💄 Beautifier App
-A modern beauty and cosmetics platform built with React, Django, Firebase Authentication, and M-Pesa integration.
-
-🔗 Project Link:  
-https://github.com/Elvis24-tech/Beautifier
-
----
-
 <div align="center">
 
 ### 💻 “Code. Create. Solve. Repeat.”
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Fullstack+Developer;React+%2B+Django+Developer;Building+Modern+Web+Apps;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Fullstack+Developer;Building+Modern+Web+Apps;Always+Learning+New+Technologies" />
 
 </div>
